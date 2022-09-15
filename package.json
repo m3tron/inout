@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/m3tron/inout#readme",
   "dependencies": {
-    "concurrently": "^7.4.0",
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "concurrently": "^7.4.0"
   }
 }
